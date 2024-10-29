@@ -1,0 +1,6 @@
+streamlit
+PyPDF2
+sentence-transformers
+langchain
+langchain-google-genai
+langchain-community
